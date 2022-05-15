@@ -23,15 +23,16 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Roswell Status
-  introTitle: "Customer-utilised services"
-  introMessage: ""
+  introTitle: "Welcome"
+  introMessage: "Here you can see the status of popular and public hosted services, products that are integrated as part of our managed services offerings, as well as any messages posted regarding incidents affecting other services you might be trying to access."
   navbar:
-    - title: Home
+    - title: www.roswellit.com
       href: https://roswellit.com
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: support@roswellit.com
+      href: mailto://support@roswellit.com
+    - title: 01355 265588
+      href: tel:01355265588
+      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
