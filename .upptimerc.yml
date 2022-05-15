@@ -5,6 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Outlook for Web
     url: https://outlook.office365.com
+  - name: roswellit.com
+    url: https://roswellit.com
+  - name: RMM
+    url: https://roswellitservices.hostedrmm.com
+  - name: CRM
+    url: https://eu.myconnectwise.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,9 +19,11 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Roswell Status
-  introTitle: ""
+  introTitle: "Customer-utilised services"
   introMessage: ""
   navbar:
+    - title: Home
+      href: https://roswellit.com
     - title: Status
       href: /
     - title: GitHub
