@@ -15,8 +15,7 @@ sites:
     url: https://roswellitservices.hostedrmm.com
   - name: Customer Helpdesk
     url: https://roswell.myportallogin.co.uk
-  - name: Roswell IT connectwise server
-    url: https://roswellitservices.hostedrmm.com
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
