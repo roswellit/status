@@ -1,21 +1,37 @@
 # Change these first
 owner: roswellit # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: status.roswellit.com
 
 sites:
-  - name: Microsoft 365 - Outlook for Web
-    url: https://outlook.office365.com
-  - name: Microsoft 365 - Exchange Online Message Delivery
-    check: "tcp-ping"
-    url: roswellit-com.mail.protection.outlook.com
-    port: 25
-  - name: Our Website - roswellit.com
+  - name: www.roswellit.com
     url: https://roswellit.com
-  - name: Customer Remote Monitoring & Management Services
-    url: https://roswellitservices.hostedrmm.com
-  - name: Customer Helpdesk
+  - name: portal.roswellit.com
     url: https://roswell.myportallogin.co.uk
-  
+  - name: help.roswellit.com
+    url: https://roswellitservices.hostedrmm.com:8040/
+  - name: HVS - Platform
+    check: "tcp-ping"
+    url: dm.yourwhc.co.uk
+    port: 443
+  - name: HVS - Office UC
+    check: "tcp-ping"
+    url: officeuc.yourwhc.co.uk
+    port: 443
+  - name: HVS - Go TAPI Integrator
+    check: "tcp-ping"
+    url: applications.yourwhc.co.uk
+    port: 443
+  - name: Google Public Recursive DNS
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: CloudFlare Public Recursive DNS
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: Remote Monitoring & Management
+    url: https://roswellitservices.hostedrmm.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
