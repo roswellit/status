@@ -11,7 +11,9 @@ sites:
   - name: help.roswellit.com
     url: https://roswellitservices.hostedrmm.com:8040/
   - name: Daisy Business Broadband Services
-    url: http://62.232.218.2:2003/
+    check: "tcp-ping"
+    url: 62.232.218.2
+    port: 2003
   - name: HVS - Platform
     check: "tcp-ping"
     url: dm.yourwhc.co.uk
