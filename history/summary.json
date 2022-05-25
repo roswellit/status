@@ -4,9 +4,9 @@
     "url": "https://roswellit.com",
     "icon": "https://favicons.githubusercontent.com/roswellit.com",
     "slug": "www-roswellit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1775,
     "timeMonth": 1775,
     "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   },
   {
     "name": "portal.roswellit.com",
