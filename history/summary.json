@@ -4,19 +4,19 @@
     "url": "https://roswellit.com",
     "icon": "https://favicons.githubusercontent.com/roswellit.com",
     "slug": "www-roswellit-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1775,
-    "timeDay": 1562,
-    "timeWeek": 1775,
-    "timeMonth": 1775,
-    "timeYear": 1775,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 1742,
+    "timeDay": 1518,
+    "timeWeek": 1742,
+    "timeMonth": 1742,
+    "timeYear": 1742,
     "dailyMinutesDown": {
-      "2022-05-25": 0
+      "2022-05-25": 29
     }
   },
   {
