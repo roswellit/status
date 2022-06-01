@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/roswellit.com",
     "slug": "www-roswellit-com",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1750,
-    "timeDay": 1873,
-    "timeWeek": 1655,
-    "timeMonth": 1750,
-    "timeYear": 1750,
-    "dailyMinutesDown": {
-      "2022-05-25": 29
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1767,
+    "timeDay": 2089,
+    "timeWeek": 1756,
+    "timeMonth": 1767,
+    "timeYear": 1767,
+    "dailyMinutesDown": {}
   },
   {
     "name": "portal.roswellit.com",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 515,
-    "timeWeek": 506,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 594,
+    "timeDay": 633,
+    "timeWeek": 531,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2310,
-    "timeDay": 4035,
-    "timeWeek": 2061,
-    "timeMonth": 2310,
-    "timeYear": 2310,
+    "time": 2265,
+    "timeDay": 1466,
+    "timeWeek": 2173,
+    "timeMonth": 2265,
+    "timeYear": 2265,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 515,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "time": 484,
+    "timeDay": 454,
+    "timeWeek": 483,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1193,
-    "timeDay": 914,
-    "timeWeek": 1193,
-    "timeMonth": 1193,
-    "timeYear": 1193,
+    "time": 1167,
+    "timeDay": 962,
+    "timeWeek": 1145,
+    "timeMonth": 1167,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   }
 ]
