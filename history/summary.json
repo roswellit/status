@@ -40,19 +40,19 @@
     "url": "https://roswellitservices.hostedrmm.com:8040/",
     "icon": "https://favicons.githubusercontent.com/roswellitservices.hostedrmm.com",
     "slug": "help-roswellit-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1826,
-    "timeDay": 647,
-    "timeWeek": 1313,
-    "timeMonth": 1826,
-    "timeYear": 1826,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1804,
+    "timeDay": 827,
+    "timeWeek": 1275,
+    "timeMonth": 1804,
+    "timeYear": 1804,
     "dailyMinutesDown": {
-      "2022-06-18": 0
+      "2022-06-18": 30
     }
   },
   {
