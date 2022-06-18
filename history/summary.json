@@ -40,9 +40,9 @@
     "url": "https://roswellitservices.hostedrmm.com:8040/",
     "icon": "https://favicons.githubusercontent.com/roswellitservices.hostedrmm.com",
     "slug": "help-roswellit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1313,
     "timeMonth": 1826,
     "timeYear": 1826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "VoIP Services",
