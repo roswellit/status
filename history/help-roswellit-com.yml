@@ -1,7 +1,7 @@
 url: https://roswellitservices.hostedrmm.com:8040/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-18T02:46:42.091Z
+status: up
+code: 200
+responseTime: 1006
+lastUpdated: 2022-06-18T03:16:51.863Z
 startTime: Wed May 18 2022 11:52:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
