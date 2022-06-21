@@ -4,6 +4,11 @@ repo: status # The name of this repository
 user-agent: status.roswellit.com
 
 sites:
+  - name: Microsoft 365
+  # We only run checks on the SMTP endpoint because it's required to have a site to assign the incidents to.
+    check: "tcp-ping"
+    url: smtp.office365.com
+    port: 25
   - name: www.roswellit.com
     url: https://roswellit.com
   - name: portal.roswellit.com
