@@ -4,11 +4,6 @@ repo: status # The name of this repository
 user-agent: status.roswellit.com
 
 sites:
-  - name: Microsoft 365
-  # We only run checks on the SMTP endpoint because it's required to have a site to assign the incidents to.
-    check: "tcp-ping"
-    url: smtp.office365.com
-    port: 25
   - name: www.roswellit.com
     url: https://roswellit.com
   - name: portal.roswellit.com
@@ -19,18 +14,24 @@ sites:
     check: "tcp-ping"
     url: dm.yourwhc.co.uk
     port: 443
-  - name: Remote Monitoring & Management Services
+  - name: Ticketing & Service Automation (PSA)
+    url: https://eu.myconnectwise.net
+  - name: Remote Monitoring & Management (RMM)
     url: https://roswellitservices.hostedrmm.com
+    name: Stratum 1 Network Time Service (NTP)
+    check: "tcp-ping"
+    url: time.roswellit.com
+    port: 123
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.roswellit.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Roswell Status
-  introTitle: "Welcome"
-  introMessage: "Here you can see the status of popular and public hosted services, products that are integrated as part of our managed services offerings, as well as any messages posted regarding incidents affecting other services you might be trying to access."
+  logoUrl: https://roswellit.com/wp-content/uploads/2020/05/little-bit-bigger.png
+  name: Roswell IT - Status
+  introTitle: "What is this page?"
+  introMessage: "Roswell IT provides managed IT solutions to our clients. Here you can see the status of public services, our widely-deployed products, as well as any incidents affecting services you are likely to use."
   navbar:
     - title: www.roswellit.com
       href: https://roswellit.com
