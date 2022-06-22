@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "microsoft-365",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-22": 5,
+      "2022-06-21": 673
+    }
   },
   {
     "name": "www.roswellit.com",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1809,
-    "timeDay": 2113,
-    "timeWeek": 1913,
-    "timeMonth": 1793,
-    "timeYear": 1809,
+    "time": 1806,
+    "timeDay": 1846,
+    "timeWeek": 1837,
+    "timeMonth": 1797,
+    "timeYear": 1806,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 650,
-    "timeWeek": 564,
-    "timeMonth": 550,
-    "timeYear": 577,
+    "time": 573,
+    "timeDay": 534,
+    "timeWeek": 530,
+    "timeMonth": 549,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +62,17 @@
     "icon": "https://favicons.githubusercontent.com/roswellitservices.hostedrmm.com",
     "slug": "help-roswellit-com",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
-    "time": 1711,
-    "timeDay": 949,
-    "timeWeek": 1049,
-    "timeMonth": 1783,
-    "timeYear": 1711,
-    "dailyMinutesDown": {
-      "2022-06-18": 30
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1688,
+    "timeDay": 899,
+    "timeWeek": 935,
+    "timeMonth": 1700,
+    "timeYear": 1688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VoIP Services",
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 418,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "time": 458,
+    "timeDay": 550,
+    "timeWeek": 444,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 659,
-    "timeWeek": 569,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "time": 836,
+    "timeDay": 623,
+    "timeWeek": 525,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {}
   }
 ]
