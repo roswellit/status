@@ -18,7 +18,7 @@ sites:
     url: https://eu.myconnectwise.net
   - name: Remote Monitoring & Management (RMM)
     url: https://roswellitservices.hostedrmm.com
-    name: Stratum 1 Network Time Service (NTP)
+  - name: Stratum 1 Network Time Service (NTP)
     check: "tcp-ping"
     url: time.roswellit.com
     port: 123
